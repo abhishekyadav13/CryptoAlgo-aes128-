@@ -44,8 +44,6 @@ cipher1[i+1]=km[arr[2]][arr[1]];
 
 }
 
-
-
 void playfairDecryption(char decrypt1[],char str[],char km[5][5],int n){
 
 for(int i=0;i<n;i=i+2){
